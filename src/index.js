@@ -6,8 +6,6 @@ import * as serviceWorker from './serviceWorker';
 import { GithubProvider } from './context/context';
 import { Auth0Provider } from '@auth0/auth0-react';
 
-//dev-ye30cy7k8c5xe2xj.us.auth0.com
-//F8ECnTIlRuoMF5AEXIF3WHsN0ue9FIyR
 
 
 ReactDOM.render(
